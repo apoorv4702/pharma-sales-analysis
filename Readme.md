@@ -42,7 +42,7 @@ pharma-sales-analysis/
 
 ## How to Run
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/pharma-sales-analysis.git
+git clone https://github.com/apoorv4702/pharma-sales-analysis.git
 cd pharma-sales-analysis
 
 # Install dependencies
