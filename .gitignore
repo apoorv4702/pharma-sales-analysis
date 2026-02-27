@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Large data files
+data/raw/
+data/exports/*.png
+
+# Keep exports CSVs but ignore PNGs
+!data/exports/*.csv
