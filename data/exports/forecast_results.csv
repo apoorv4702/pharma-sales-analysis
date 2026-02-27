@@ -1,0 +1,9 @@
+Drug,Current Avg,Forecast Avg,Change %,MAPE %,Status
+Aspirin,90.2,80.6,-10.6,60.9,⚠️  AT-RISK
+Diclofenac,153.3,159.3,3.9,46.0,✅  STABLE
+Anxiolytics,270.4,303.1,12.1,58.2,⬆️  GROWING
+Paracetamol,940.8,1073.9,14.1,69.7,⬆️  GROWING
+Ibuprofen,125.5,143.4,14.3,68.9,⬆️  GROWING
+Hypnotics,19.3,23.1,19.2,58.1,⬆️  GROWING
+Salbutamol,243.6,303.8,24.7,181.2,⬆️  GROWING
+Antihistamines,107.1,134.8,25.9,136.2,⬆️  GROWING

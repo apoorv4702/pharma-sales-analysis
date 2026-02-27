@@ -1,0 +1,9 @@
+drug_name,total_sales,avg_monthly_sales,peak_sales,min_sales
+Paracetamol,62478.0,892.54,1856.81,0.0
+Anxiolytics,18348.0,262.12,492.0,1.0
+Salbutamol,11737.0,167.68,386.0,0.0
+Diclofenac,10499.0,149.99,211.13,0.0
+Ibuprofen,8156.0,116.51,222.35,0.0
+Aspirin,8051.0,115.02,191.6,0.0
+Antihistamines,6066.0,86.66,213.04,0.0
+Hypnotics,1249.0,17.84,50.0,0.0

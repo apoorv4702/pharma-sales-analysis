@@ -1,0 +1,9 @@
+drug_name,best_month_sales,worst_month_sales,avg_sales,volatility_pct
+Hypnotics,50.0,0.0,17.8,280.2
+Antihistamines,213.04,0.0,86.7,245.8
+Salbutamol,386.0,0.0,167.7,230.2
+Paracetamol,1856.8149999999996,0.0,892.5,208.0
+Ibuprofen,222.35100000000017,0.0,116.5,190.8
+Anxiolytics,492.0,1.0,262.1,187.3
+Aspirin,191.6,0.0,115.0,166.6
+Diclofenac,211.13000000000017,0.0,150.0,140.8
