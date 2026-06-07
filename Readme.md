@@ -1,4 +1,4 @@
-# Pharmaceutical Sales Performance Analysis
+# Pharmaceutical Sales Analytics & Demand Forecasting
 
 A complete end-to-end data analytics project analyzing pharmaceutical 
 sales data using Python, SQL, and Power BI.
